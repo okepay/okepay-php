@@ -1,0 +1,25 @@
+{
+    "name": "okepay/okepay",
+    "type": "library",
+    "description": "OkePay PHPLib",
+    "keywords": [
+        "payment",
+        "gateway"
+    ],
+    "license": "MIT",
+    "homepage": "https://www.okepay.biz",
+    "authors": [
+        {
+            "name": "OkePay",
+            "homepage": "https://www.okepay.biz"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "OkePay": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
